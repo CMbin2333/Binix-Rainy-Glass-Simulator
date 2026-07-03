@@ -82,6 +82,7 @@ AIGC:
     <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/ad3ac03c-9ee1-46ec-8c38-f85352e01a1f" />
     <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/e62dedd3-9a91-463a-b973-651b4eb64899" />
     <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/c3b2eea6-1643-45c3-a1e7-961139e5e434" />
+    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/87c36708-1e51-41b2-91d7-8c18fa776a4e" />
 </p>
 
 > 💡 *To capture your own screenshots: right-click the canvas and "Save as Image", or use the browser's built-in screenshot tool.*

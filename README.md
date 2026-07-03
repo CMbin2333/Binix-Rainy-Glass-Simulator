@@ -36,7 +36,7 @@ AIGC:
 ---
 
 <p align="center">
-  <img src="preview.png" alt="Project Preview" width="800" />
+<img width="2560" height="1347" alt="PixPin_2026-07-04_01-09-28" src="https://github.com/user-attachments/assets/29fe1805-afbd-47b8-976b-65f84d635396" />
 </p>
 
 <p align="center">

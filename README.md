@@ -36,7 +36,7 @@ AIGC:
 ---
 
 <p align="center">
-<img width="2560" height="1347" alt="PixPin_2026-07-04_01-09-28" src="https://github.com/user-attachments/assets/29fe1805-afbd-47b8-976b-65f84d635396" />
+  <img src="preview.png" alt="Project Preview" width="800" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ AIGC:
 
 | Demo | Link |
 |------|------|
-| GitHub Pages | *[coming soon]* |
+| GitHub Pages | [cmbin2333.github.io/Binix-Rainy-Glass-Simulator](https://cmbin2333.github.io/Binix-Rainy-Glass-Simulator/) |
 | Vercel | *[coming soon]* |
 
 ---
@@ -79,10 +79,18 @@ AIGC:
 ## Screenshots / 截图展示
 
 <p align="center">
-    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/ad3ac03c-9ee1-46ec-8c38-f85352e01a1f" />
-    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/e62dedd3-9a91-463a-b973-651b4eb64899" />
-    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/c3b2eea6-1643-45c3-a1e7-961139e5e434" />
-    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/87c36708-1e51-41b2-91d7-8c18fa776a4e" />
+  <img src="screenshots/demo-01-default.png" alt="Default Glass Scene" width="400" />
+  <img src="screenshots/demo-02-heart.png" alt="Heart Special Effect" width="400" />
+</p>
+
+<p align="center">
+  <img src="screenshots/demo-03-wipe.png" alt="Mouse Wipe Interaction" width="400" />
+  <img src="screenshots/demo-04-control-panel.png" alt="Control Panel UI" width="400" />
+</p>
+
+<p align="center">
+  <img src="screenshots/demo-05-lightning.png" alt="Lightning Effect" width="400" />
+  <img src="screenshots/demo-06-closeup.png" alt="Close-up Droplet Detail" width="400" />
 </p>
 
 > 💡 *To capture your own screenshots: right-click the canvas and "Save as Image", or use the browser's built-in screenshot tool.*
@@ -235,7 +243,7 @@ float borderShadow = S(0.15, 0.25, c.x) * S(0.4, 0.25, c.x) * 0.25;
 ## Control Panel / 控制面板
 
 <p align="center">
-  <img width="582" height="1282" alt="image" src="https://github.com/user-attachments/assets/6d5ef87e-9d7e-4ca3-b38e-43391d03fbae" />
+  <img src="screenshots/control-panel.png" alt="Control Panel" width="320" />
 </p>
 
 All parameters can be adjusted in real-time via the glass-morphism control panel. Click the gear icon in the top-right corner to open it.
@@ -524,3 +532,6 @@ See [LICENSE](LICENSE) for the full text.
 <p align="center">
   <sub>Made with ❤️ and a lot of GLSL</sub>
 </p>
+
+*（内容由AI生成，仅供参考）*
+*（内容由AI生成，仅供参考）*

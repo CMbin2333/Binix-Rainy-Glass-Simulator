@@ -496,6 +496,13 @@ Please open an issue first to discuss your idea before submitting a PR.
 
 ---
 
+## Acknowledgments / 致谢
+
+- Shader logic inspired by [Cherry Lab / Heartfelt](https://github.com/cherrychu07/Cherry-Lab) by [@cherrychu07](https://github.com/cherrychu07) — a beautiful WebGL2 glass rain simulation that sparked this project.
+- Built with [React](https://react.dev/), [Vite](https://vite.dev/), [Tailwind CSS](https://tailwindcss.com/), and [WebGL2](https://www.khronos.org/webgl/).
+
+---
+
 ## License / 许可证
 
 MIT © Binix

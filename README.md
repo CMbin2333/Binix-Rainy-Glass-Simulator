@@ -79,18 +79,9 @@ AIGC:
 ## Screenshots / 截图展示
 
 <p align="center">
-  <img src="screenshots/demo-01-default.png" alt="Default Glass Scene" width="400" />
-  <img src="screenshots/demo-02-heart.png" alt="Heart Special Effect" width="400" />
-</p>
-
-<p align="center">
-  <img src="screenshots/demo-03-wipe.png" alt="Mouse Wipe Interaction" width="400" />
-  <img src="screenshots/demo-04-control-panel.png" alt="Control Panel UI" width="400" />
-</p>
-
-<p align="center">
-  <img src="screenshots/demo-05-lightning.png" alt="Lightning Effect" width="400" />
-  <img src="screenshots/demo-06-closeup.png" alt="Close-up Droplet Detail" width="400" />
+    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/ad3ac03c-9ee1-46ec-8c38-f85352e01a1f" />
+    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/e62dedd3-9a91-463a-b973-651b4eb64899" />
+    <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/c3b2eea6-1643-45c3-a1e7-961139e5e434" />
 </p>
 
 > 💡 *To capture your own screenshots: right-click the canvas and "Save as Image", or use the browser's built-in screenshot tool.*

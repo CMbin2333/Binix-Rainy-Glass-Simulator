@@ -20,7 +20,7 @@ AIGC:
     ReservedCode2: cVL/iKZvsnDsIpVQcR7wGhkSDUc0jnZkV1qdxprk7OBcFsR9cFdhxNlY8aUDSJagh4llj25J5CeaO8xkIvndYfYam9fbOh1OWrp/AslUEoYV7maFVVjW6KyWp16iGSdRByv9BweND4qG+e4CZptztXnJ+5B8uF1lr4FvpXX/kP7IBPiWrcJBxiHltGE=
 -->
 
-# Binix Rainy Glass Simulator / 心雨 · 玻璃雨滴模拟器
+# Binix Rainy Glass Simulator / Binix · 玻璃雨滴模拟器
 
 [![WebGL2](https://img.shields.io/badge/WebGL-2.0-red.svg)](https://www.khronos.org/webgl/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)

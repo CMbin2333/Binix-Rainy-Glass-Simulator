@@ -36,7 +36,7 @@ AIGC:
 ---
 
 <p align="center">
-  <img src="preview.png" alt="Project Preview" width="800" />
+  <img width="2560" height="1347" alt="PixPin_2026-07-04_01-09-28" src="https://github.com/user-attachments/assets/12afa7ee-e04c-492c-b8ca-b175b776c8b7" />
 </p>
 
 <p align="center">
@@ -79,18 +79,14 @@ AIGC:
 ## Screenshots / 截图展示
 
 <p align="center">
-  <img src="screenshots/demo-01-default.png" alt="Default Glass Scene" width="400" />
-  <img src="screenshots/demo-02-heart.png" alt="Heart Special Effect" width="400" />
+  <img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/2a7c44ea-04f5-4721-8764-61751c6f7fd5" />
+<img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/398f9c38-7d7f-4941-963f-139ae4361c92" />
+
 </p>
 
 <p align="center">
-  <img src="screenshots/demo-03-wipe.png" alt="Mouse Wipe Interaction" width="400" />
-  <img src="screenshots/demo-04-control-panel.png" alt="Control Panel UI" width="400" />
-</p>
-
-<p align="center">
-  <img src="screenshots/demo-05-lightning.png" alt="Lightning Effect" width="400" />
-  <img src="screenshots/demo-06-closeup.png" alt="Close-up Droplet Detail" width="400" />
+<img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/17700d06-4893-40c4-9c76-87850024caff" />
+<img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/994cecaa-a0ad-4b5a-99ab-cc47947c04e9" />
 </p>
 
 > 💡 *To capture your own screenshots: right-click the canvas and "Save as Image", or use the browser's built-in screenshot tool.*

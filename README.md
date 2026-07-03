@@ -525,6 +525,3 @@ See [LICENSE](LICENSE) for the full text.
 <p align="center">
   <sub>Made with ❤️ and a lot of GLSL</sub>
 </p>
-
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*

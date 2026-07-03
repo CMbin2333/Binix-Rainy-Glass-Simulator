@@ -243,7 +243,7 @@ float borderShadow = S(0.15, 0.25, c.x) * S(0.4, 0.25, c.x) * 0.25;
 ## Control Panel / 控制面板
 
 <p align="center">
-  <img src="screenshots/control-panel.png" alt="Control Panel" width="320" />
+  <img width="582" height="1282" alt="image" src="https://github.com/user-attachments/assets/6d5ef87e-9d7e-4ca3-b38e-43391d03fbae" />
 </p>
 
 All parameters can be adjusted in real-time via the glass-morphism control panel. Click the gear icon in the top-right corner to open it.

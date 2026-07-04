@@ -502,8 +502,7 @@ Please open an issue first to discuss your idea before submitting a PR.
 
 ## Acknowledgments / 致谢
 
-- Shader logic inspired by [Cherry Lab / Heartfelt](https://github.com/cherrychu07/Cherry-Lab) by [@cherrychu07](https://github.com/cherrychu07) — a beautiful WebGL2 glass rain simulation that sparked this project.
-- Built with [React](https://react.dev/), [Vite](https://vite.dev/), [Tailwind CSS](https://tailwindcss.com/), and [WebGL2](https://www.khronos.org/webgl/).
+着色器代码来自：https://www.shadertoy.com/view/ltffzl
 
 ---
 
@@ -528,6 +527,3 @@ See [LICENSE](LICENSE) for the full text.
 <p align="center">
   <sub>Made with ❤️ and a lot of GLSL</sub>
 </p>
-
-*（内容由AI生成，仅供参考）*
-*（内容由AI生成，仅供参考）*
